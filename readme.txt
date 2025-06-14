@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 Now create a new branch dev.
 1
 2
+3
